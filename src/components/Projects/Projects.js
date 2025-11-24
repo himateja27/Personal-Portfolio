@@ -42,8 +42,8 @@ function Projects() {
               isBlog={false}
               title="Personal-Portfolio"
               description="My personal portfolio is built with React and Tailwind CSS. It showcases my projects, skills, and resume in a clean, modern interface. The site supports dark mode and features dynamic sections for work experience, education, and contact information. Content is easy to update using structured components, making it simple to highlight new projects or achievements."
-              ghLink="https://github.com/himateja27/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              ghLink="https://github.com/himateja27/Personal-Portfolio"
+              demoLink="https://personal-portfolio-black-pi.vercel.app/"
             />
           </Col>
           "
