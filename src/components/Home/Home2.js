@@ -13,17 +13,26 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I’m an aspiring <span className="purple">Software Developer</span>{" "}
+              who loves transforming ideas into{" "}
+              <span className="purple">
+                modern, interactive web applications
+              </span>
+              . Over time, I’ve explored several technologies and found my
+              passion in building
+              <span className="purple"> scalable backend APIs </span> and
+              <span className="purple">
+                {" "}
+                visually impressive frontend experiences
+              </span>
+              .
               <br />
               <br />
               I’m proficient in
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  HTML, CSS, JavaScript, React, Python, Golang, SQL, and Django{" "}
                 </b>
               </i>
               — and I enjoy working across both backend and frontend stacks.
@@ -33,17 +42,18 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  Full‑Stack Web Applications, Secure APIs, and Animated
+                  Portfolio Sites{" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
+              with professional standards.
               <br />
               <br />
               Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
+              <b className="purple"> React </b> and backend frameworks like{" "}
               <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
+                <b className="purple">Django</b> and{" "}
+                <b className="purple">Golang (Gin)</b>.
               </i>
             </p>
           </Col>
