@@ -36,18 +36,17 @@ function Projects() {
               demoLink="https://chatify-49.web.app/"
             />
           </Col>
-
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              title="Personal-Portfolio"
+              description="My personal portfolio is built with React and Tailwind CSS. It showcases my projects, skills, and resume in a clean, modern interface. The site supports dark mode and features dynamic sections for work experience, education, and contact information. Content is easy to update using structured components, making it simple to highlight new projects or achievements."
+              ghLink="https://github.com/himateja27/Bits-0f-C0de"
               demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
-
+          "
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={editor}
@@ -58,7 +57,6 @@ function Projects() {
               demoLink="https://editor.soumya-jit.tech/"
             />
           </Col>
-
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={leaf}
@@ -69,7 +67,6 @@ function Projects() {
               demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
-
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={suicide}
@@ -80,7 +77,6 @@ function Projects() {
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
-
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={emotion}
